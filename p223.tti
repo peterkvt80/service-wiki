@@ -1,0 +1,25 @@
+DE,timing test
+DS,inserter
+SP,J:\peter\teletext pages\timingTest.tti
+PN,22301
+SC,0001
+PS,8000
+CT,2,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Time Page 1 - 2 seconds                            
+OL,3,timingTest.tti                          
+PN,22302
+SC,0002
+PS,8000
+CT,4,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Time Page 2 - 4 seconds                            
+PN,22303
+SC,0003
+PS,8000
+CT,6,T
+RE,0
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,Time Page 3 - 6 seconds                             

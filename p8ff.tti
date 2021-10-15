@@ -1,0 +1,43 @@
+DE,Topic: Created by user
+DS,muttlee
+SP,/var/www/wtf/p8ff.tti
+CT,8,T
+PN,8ff00
+SC,0000
+PS,8000
+RE,0
+OL,0,b7ffj 1 Geefax  DAY dd MTH C hh:nn.ss   
+OL,1,                                @       
+OL,2, CGranada plc                           
+OL,3,                                        
+OL,4,  CUMG @          S8=0           @      
+OL,5,Q CYTTTV        S  8=0                  
+OL,6,  CLWT           Sj -d                  
+OL,7,C  Anglia   \    S ),!         D        
+OL,8,  CMeridian                             
+OL,9,F                                       
+OL,10,  AOwned by Carlton                     
+OL,11,                                        
+OL,12,  ALondon Weekday                       
+OL,13,  ASouth West                           
+OL,14,F AMidlands                             
+OL,15,F AWales and the West                   
+OL,16,                                     
+OL,17,F Independent                           
+OL,18,F                                       
+OL,19,F  SMG (Scottish/Grampian)              
+OL,20,F CUTV                                  
+OL,21,F CChannel                              
+OL,22,F                                       
+OL,23,F                                    @  
+OL,24,A News   BSport      CTraffic   FNext   
+FL,900,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,8ff01
+SC,0001
+PS,8000
+RE,0
+OL,2, BIs Broadcasting                       
+OL,6,   FQ                                   
+OL,8,                                        
+FL,900,8ff,8ff,700,8ff,8ff  
