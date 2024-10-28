@@ -18,7 +18,7 @@ OL,8, government as a secure communications
 OL,9, network that could not be interrupted  
 OL,10, in times of crisis. It was a part of   
 OL,11, cold war planning.                     
-OL,12,                                        
+OL,12,   *** BASE 1 TEST ***
 OL,13,FIt was based on secret messages        
 OL,14,Fembedded in theCteletextFsignal. It was
 OL,15,Fdecided to use transmission line 19 of 
@@ -47,6 +47,7 @@ OL,8,Fnational network. One signal was called
 OL,9,CALERT.FThis would alert the regions    
 OL,10,Fthat their local programming was going 
 OL,11,Fto be interrupted.                     
+OL,12,   *** BASE 1 TEST ***
 OL,13, The other message wasCREGIONAL RECALL  
 OL,14, and this switched relays to cut to     
 OL,15, London or one of the secure studios.   
@@ -75,7 +76,7 @@ OL,7,FThe other use was to send military
 OL,8,Fsignals in time of war. It could send  
 OL,9,Fdata and trigger signals across the UK 
 OL,10,Feven when the phone network was down.  
-OL,11,F                                       
+OL,11,   *** BASE 1 TEST ***
 OL,12,FHowever, the most sinister usage was   
 OL,13,Fthrough booby trapped chips. Teletext  
 OL,14,FTV chip designs were hacked to allow   
@@ -105,6 +106,7 @@ OL,8,Fall destroyed. The groundbreaking work
 OL,9,Fof the teletext recovery people meant  
 OL,10,Fthat all sorts of signals could be     
 OL,11,Fextracted from video tape.             
+OL,12,   *** BASE 1 TEST ***
 OL,13, TheCChinese Ministry of State Security 
 OL,14, conducted trials of the technology in  
 OL,15,CWuhan.GDisasterously, while running    
