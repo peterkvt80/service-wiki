@@ -1,7 +1,7 @@
 DE,Topic: COVID-19
 DS,inserter
 SP,J:\peter\teletext pages\covid19.tti
-PN,44401
+PN,44400
 SC,0001
 PS,8000
 CT,8,T
@@ -30,7 +30,7 @@ OL,21,Flocations around the UK including in
 OL,22,Fnuclear bunkers to protect the system. 
 OL,24,A Next   B....       C....      FIndex  
 FL,140,8ff,8ff,700,8ff,8ff
-PN,44402
+PN,44401
 SC,0002
 PS,8000
 CT,8,T
@@ -59,7 +59,7 @@ OL,21,F
 OL,22, But the story didn't end there....     
 OL,24,A Next   B....       C....      FIndex  
 FL,140,8ff,8ff,700,8ff,8ff
-PN,44403
+PN,44402
 SC,0003
 PS,8000
 CT,8,T
@@ -88,7 +88,7 @@ OL,21,FAfter analogue shutdown you might have
 OL,22,Fthought that the weapon would be safe. 
 OL,24,A Next   B....       C....      FIndex  
 FL,140,8ff,8ff,700,8ff,8ff
-PN,44404
+PN,44403
 SC,0004
 PS,8000
 CT,8,T
