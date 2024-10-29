@@ -7,7 +7,7 @@ SC,0000
 PS,8000
 RE,0
 OL,0,W221  1eSUBTEXT     %%a  %d %%bC%H:%M   
-OL,1,Q     R7        kASUBNEWS 904  &        
+OL,1,Q     R7        kASUBNEWS 904 - 930     
 OL,2,      R5SUBTEXT jT]C|TM availability    
 OL,3,Q    Xoh no! what happened here?Enter       
 OL,4,MWelcome to Subtext                     
