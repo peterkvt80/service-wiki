@@ -14,10 +14,11 @@ OL,4,MTeletext Editor Alignment Chart
 OL,5,Q                                       
 OL,6, ```````````````````````````````````````
 OL,7,B       MLAWFUL     NEUTRAL      CHAOTIC
-OL,10,MGOOD   CZXNet      wxTED        Texted 
+OL,10,MGOOD   CQTMaker    ZXNet        Texted 
+OL,11,         QTMaker                        
 OL,12,        C                        8bs    
-OL,15,MNEUTRALFFAB        edit.tf      ABZ    
-OL,20,MEVIL   EBad Apple  Muttlee      MiniTED
+OL,15,MNEUTRALFwxTED      edit.tf      ABZ    
+OL,20,MEVIL   EFAB        Muttlee      MiniTED
 OL,21,                                    .   
 OL,24,ANextB                            FHelp 
 FL,123,8ff,8ff,700,8ff,8ff
