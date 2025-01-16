@@ -6,7 +6,7 @@ PN,10100
 SC,0000
 PS,8000
 RE,0
-OL,0,XXXXXXXXWT-FAX mpp DAY dd MTH C hh:nn.ss
+OL,0, XXXXXXXXWT-FAX mpp DAY dd MTH C hh:nn.s
 OL,1,A   The Continuing Adventures of Mr T.  
 OL,2,MM102A new fool has entered T's Town.   
 OL,3,WQ #A                                   
