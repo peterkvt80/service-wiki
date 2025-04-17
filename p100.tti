@@ -16,7 +16,7 @@ OL,6, ```````````````````````````````````````
 OL,7,C                                       
 OL,8, Wiki Tel Fax starts on page 110        
 OL,9,F                                       
-OL,10,    älä                                 
+OL,10,    C$lC$                                 
 OL,11,F                                       
 OL,12,                                        
 OL,13,                                        
@@ -99,4 +99,11 @@ RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
 RM,3,UNEXPECTED OL. MARKED FOR DELETION
+FL,101,8ff,8ff,700,8ff,8ff  
+CT,8,T
+PN,10001
+SC,0001
+PS,8000
+RE,0
+OL,4,xyzzy        ä                          
 FL,101,8ff,8ff,700,8ff,8ff  
