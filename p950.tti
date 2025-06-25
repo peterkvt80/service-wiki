@@ -6,16 +6,17 @@ PN,95000
 SC,0000
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_w]lB
 OL,1,                                        
 OL,2,                                        
-OL,3,                                        
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
-OL,8,                                        
-OL,9,                                        
-OL,10,                                        
+OL,3,0:This is colour 0                      
+OL,4,1:AThis is colour 1                     
+OL,5,2:BThis is colour 2                     
+OL,6,3:CThis is colour 3                     
+OL,7,4:DThis is colour 4                     
+OL,8,5:EThis is col    5                     
+OL,9,6:FThis is colour 6                     
+OL,10,7:GThis is colour 7                     
 OL,11,                                        
 OL,12,                                        
 OL,13,                                        
