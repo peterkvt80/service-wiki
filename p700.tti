@@ -7,14 +7,19 @@ SC,0000
 PS,8000
 RE,0
 OL,0,W221  1eSOLOTEXT    Tues 20 Apr 14:21   
-OL,1,Q     R7        kT]C|QuickLook &        
+OL,1,Q     R7        kA100100ckLook &        
 OL,2,      R5LLDDGUI jT]C|TM availability    
-OL,3,Q     Ru        zT]C                    
+OL,3,Q    Xoh no! what happened here?Enter       
 OL,4,MLow Latency Data Display               
 OL,5,Q         A$                           
 OL,6, ```````````````````````````````````````
+<<<<<<< HEAD
 OL,7,CWhere's the help page?                 
 OL,8,G                                       
+=======
+OL,7,C                                       
+OL,8,G    What Hapened Here?                 
+>>>>>>> f93da8875d2ac9e9c3c5de5ebea86a3ed44aa284
 OL,9,Grusugen anno 2019:ETV                  
 OL,10,                                        
 OL,11,GVi kan derfor se frem til en rusuge med

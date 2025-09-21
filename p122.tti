@@ -15,6 +15,10 @@ OL,5,Q
 OL,6, ```````````````````````````````````````
 OL,7,B       MLAWFUL     NEUTRAL      CHAOTIC
 OL,10,MGOOD   CQTMaker    ZXNet        Texted 
+<<<<<<< HEAD
+=======
+OL,11,         QTMaker                        
+>>>>>>> f93da8875d2ac9e9c3c5de5ebea86a3ed44aa284
 OL,12,        C                        8bs    
 OL,15,MNEUTRALFwxTED      edit.tf      ABZ    
 OL,20,MEVIL   EFAB        Muttlee      MiniTED

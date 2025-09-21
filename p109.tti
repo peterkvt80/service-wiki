@@ -1,8 +1,8 @@
 DE,Topic: Created by user
 DS,Muttlee
-SP,/var/www/private/onair/wtf/p150.tti
+SP,/var/www/private/onair/wtf/p109.tti
 CT,8,T
-PN,15000
+PN,10900
 SC,0000
 PS,8000
 RE,0
@@ -31,4 +31,4 @@ OL,21,F  PRO TIP: To clear the screen, press
 OL,22,F           Escape then Z               
 OL,23,F                                       
 OL,24,A Next   B....       C....      FHelp   
-FL,151,8ff,8ff,700,8ff,8ff  
+FL,110,8ff,8ff,700,8ff,8ff  
