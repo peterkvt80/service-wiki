@@ -1,33 +1,198 @@
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p803.tti
-CT,8,T
-PN,80300
-SC,0000
+DE,Polish/Turkish/Greek
+PN,80301
+SC,0001
 PS,8000
-OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
-OL,3,                                        
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
-OL,8,                                        
-OL,9,                e stuff here            
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,A Next   B....       C....      FHelp   
-FL,804,8ff,8ff,700,8ff,8ff  
+CT,20,T
+OL,28,@@P|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CM Polish Test Page             
+OL,3,D]G                                     
+OL,4,D]G              0@P`p  Nie m_j cyrk,   
+OL,5,D]G             !1AQaq  Nie moje ma}py  
+OL,6,D]G             "2BRbr  C               
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt                  
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  1:0
+PN,80302
+SC,0002
+PS,8180
+CT,20,T
+OL,28,@@l|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CMTurkish Test Page             
+OL,3,D]G                                     
+OL,4,D]G              0@P`p CArmut pi{       
+OL,5,D]G             !1AQaq Ca$zima du{      
+OL,6,D]G             "2BRbr                  
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt                  
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  2:3
+FL,100,700,502,199,8ff,160
+PN,80303
+SC,0003
+PS,8280
+CT,20,T
+OL,28,@@z|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]MC     Serbian/Croatian/Slovenian     
+OL,3,D]G                                     
+OL,4,D]G              0@P`p C\ivot je `inija 
+OL,5,D]G             !1AQaq Csupe, a ja sam  
+OL,6,D]G             "2BRbr Cvilju~ka        
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt                  
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  3:5
+PN,80304
+SC,0004
+PS,8380
+CT,20,T
+OL,28,@@~|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CM     Rumanian                 
+OL,3,D]G                                     
+OL,4,D]G              0@P`p CUmbla cu cioara 
+OL,5,D]G             !1AQaq Cvopsit}         
+OL,6,D]G             "2BRbr C                
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt C                
+OL,9,D]G             %5EUeu C                
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw C                
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  3:7
+PN,80305
+SC,0005
+PS,8080
+CT,20,T
+OL,28,@@H}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]MC       Russian Bulgarian            
+OL,3,D]G                                     
+OL,4,D]G              0@P`p CKogda rak na    
+OL,5,D]G             !1AQaq Cgore swistnet   
+OL,6,D]G             "2BRbr                  
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt  g               
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  4:1
+PN,80306
+SC,0006
+PS,8100
+CT,20,T
+OL,28,@@D}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CM     Estonian                 
+OL,3,D]G                                     
+OL,4,D]G              0@P`p C[ra h$iska Enne 
+OL,5,D]G             !1AQaq Cohtut           
+OL,6,D]G             "2BRbr                  
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt                  
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  4:2
+PN,80307
+SC,0007
+PS,8300
+CT,20,T
+OL,28,@@F}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CM Lettish/Lithuanian           
+OL,3,D]G                                     
+OL,4,D]G              0@P`p CKaip vadinasi   
+OL,5,D]G             !1AQaq C`uo, kuris      
+OL,6,D]G             "2BRbr Ckalba?          
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt Clabrakalbris    
+OL,9,D]G             %5EUeu C                
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  4:6
