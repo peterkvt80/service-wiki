@@ -1,264 +1,114 @@
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-PN,80400
-SC,0000
-PS,8000
-OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
-OL,2,                                        
-OL,3,                                        
-OL,4,                                        
-OL,5,                                        
-OL,6,                                        
-OL,7,                                        
-OL,8,       Type some 5h1t here              
-OL,9,                                        
-OL,10,                                        
-OL,11,                                        
-OL,12,                                        
-OL,13,                                        
-OL,14,                                        
-OL,15,                                        
-OL,16,                                        
-OL,17,                                        
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
-OL,23,                                        
-OL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-RM,1,INVALID PN. MARKED FOR DELETIONPN,80400
-SC,0000
-PS,8000
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-RM,1,INVALID PN. MARKED FOR DELETIONPN,80400
-SC,0000
-PS,8000
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,       Type some 5h1                    
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-RM,1,INVALID PN. MARKED FOR DELETIONPN,80400
-SC,0000
-PS,8000
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-RM,1,INVALID PN. MARKED FOR DELETIONPN,80400
-SC,0000
-PS,8000
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,       Type some 5h1                    
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-RM,1,INVALID PN. MARKED FOR DELETIONPN,80400
-SC,0000
-PS,8000
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-RM,1,INVALID PN. MARKED FOR DELETIONPN,80400
-SC,0000
-PS,8000
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,       Type some 5h1                    
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
-DE,Enter your description here
-DS,Muttlee
-SP,/var/www/private/onair/wtf/p804.tti
-CT,8,T
-RM,1,INVALID PN. MARKED FOR DELETIONPN,80400
-SC,0000
-PS,8000
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,2,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,5,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,8,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,10,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,                                        
-RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,24,A Next   B....       C....      FHelp   
-FL,805,8ff,8ff,700,8ff,8ff  
+DE,Ukraine/Greek/Arabic/Hebrew
+PN,80401
+SC,0001
+PS,8280
+CT,20,T
+OL,28,@@J}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CM    UKRANIAN                  
+OL,3,D]G                                     
+OL,4,D]G              0@P`p CPer{ij hlopepx  
+OL,5,D]G             !1AQaq Cna sely         
+OL,6,D]G             "2BRbr  C               
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt                  
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  4:5
+PN,80402
+SC,0002
+PS,8380
+CT,20,T
+OL,28,@@n}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CM      Greek                   
+OL,3,D]G                                     
+OL,4,D]G              0@P`p CArmut pi{       
+OL,5,D]G             !1AQaq Ca$zima du{      
+OL,6,D]G             "2BRbr                  
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt                  
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  6:7
+FL,100,700,502,199,8ff,160
+PN,80403
+SC,0003
+PS,8380
+CT,20,T
+OL,28,@@N~gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]MC            Arabic                  
+OL,3,D]G                                     
+OL,4,D]G              0@P`p C\ivot je `inija 
+OL,5,D]G             !1AQaq Csupe, a ja sam  
+OL,6,D]G             "2BRbr Cvilju~ka        
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt                  
+OL,9,D]G             %5EUeu                  
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw                  
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                  8:7
+PN,80404
+SC,0004
+PS,8280
+CT,20,T
+OL,28,@@j~gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,D]G     CM      Hebrew                  
+OL,3,D]G                                     
+OL,4,D]G              0@P`p CUmbla cu cioara 
+OL,5,D]G             !1AQaq Cvopsit}         
+OL,6,D]G             "2BRbr C                
+OL,7,D]G             #3CScs                  
+OL,8,D]G             $4DTdt C                
+OL,9,D]G             %5EUeu C                
+OL,10,D]G             &6FVfv                  
+OL,11,D]G             '7GWgw C                
+OL,12,D]G             (8HXhx                  
+OL,13,D]G    ~        )9IYiy                  
+OL,14,D]G             *:JZjz     []{}         
+OL,15,D]G             +;K[k{                  
+OL,16,D]G             ,<L\l|                  
+OL,17,D]G             -=M]m}                  
+OL,18,D]G             .>N^n~                  
+OL,19,D]G             /?O_o                  
+OL,20,D]G                                     
+OL,21,D]G                                     
+OL,22,D]G                                     
+OL,23,D]G                                     
+OL,24,D]G                                 10:5
