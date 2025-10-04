@@ -1,34 +1,33 @@
-DE,Happy Halloween
-DS,muttlee
-SP,/var/www/wtf/p102.tti
+DE,Enter your description here
+DS,Muttlee
+SP,/var/www/private/onair/wtf/p102.tti
 CT,8,T
 PN,10200
 SC,0000
 PS,8000
-RE,0
-OL,0,1      Farttfx LOL 31 Feb 200X hh:nn.s  
-OL,1,T] G(c) Raquel  W `|||||0EOink! W  x|0  
-OL,2,T] G    Meyers > W'+'+  UU l(4Wt+vot 
-OL,3,T]W`pppppppppppp0W 4h   UUxcWv%ze? 
-OL,4,T]W   |    +7#k'  U//{uW~y'  
-OL,5,T]W     0 `   2/,/aW   U"+}||~}@
-OL,6,T]W   / #/$+vpy' ((( Uh?oo% 
-OL,7,T]W"############a0p|||||p`0((Uj% ##!'  
-OL,8,T]W (((((((((( x7xs;$gs{tkt((U)W((U)0  
-OL,9,T]W((((((((((( 5ss+!'ss4((((((((((  
-OL,10,T]R  m0   W4   "}2s+$'s'x'   ` R `>   
-OL,11,T]Q~l<} Wo|>  z%ws1s{ju *dp>Q~l<} 
-OL,12,T]Q+vssy' W #!+/'j|$lt+/'"# Q+vssy' 
-OL,13,W]G M    DHappy, Happy Halloween!       
-OL,14,T]                            @         
-OL,15,W]    DGDFrom everyone @ Teletextr      
-OL,16,T]G         Brought to you by        
-OL,17,T]C The Stereotypical Blue Background   
-OL,18,T]C      and Not-horsenburgerer         
-OL,19,T+'
-OL,20,A        HahahahQ l0 `<A hahahaH        
-OL,21,Q(-,,t  x.#+4  p`>-,.m0p  h'#-t  x,,.$
-OL,22,Q`sss?##!p<.!`~j?nq=o5}0"-lp"##osss0
-OL,23,Q !  #   "-,,./#*$+,,,'(%#/-,,.!   #  "2
-OL,24,APumpkings  BWitches  CGhouls  FGoblins 
+OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
+OL,1,                                        
+OL,2,                                        
+OL,3,                                        
+OL,4,                                        
+OL,5,                                        
+OL,6,                                        
+OL,7,                                        
+OL,8,                                        
+OL,9,                                        
+OL,10,                                        
+OL,11,                                        
+OL,12,                                        
+OL,13,                                        
+OL,14,                                        
+OL,15,                                        
+OL,16,                                        
+OL,17,                                        
+OL,18,                                        
+OL,19,                                        
+OL,20,                                        
+OL,21,                                        
+OL,22,                                        
+OL,23,                                        
+OL,24,A Next   B....       C....      FHelp   
 FL,103,8ff,8ff,700,8ff,8ff  
