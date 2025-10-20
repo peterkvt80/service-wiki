@@ -23,11 +23,11 @@ OL,14,  t u v w x y z
 OL,15,                                        
 OL,16,  Other characters                       
 OL,17,C[^[G<shift>6        )                   
-OL,18,                                        
-OL,19,                                        
-OL,20,                                        
-OL,21,                                        
-OL,22,                                        
+OL,18,C[`G[back tick                          
+OL,19,C[_G[underscore                         
+OL,20,C[[G[L sq bracket                       
+OL,21,C[{G[L curly brace                      
+OL,22,C[ G[R                                  
 OL,23,                                        
 OL,28,@@@TBCu_@|wKpZA`UB_wLs_w}ww]_}_wM@D
 FL,312,309,309,864,309,000
