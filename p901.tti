@@ -22,13 +22,13 @@ OL,13,C[t u v w x y z
 OL,14,  t u v w x y z                         
 OL,15,                                        
 OL,16,  Other characters                       
-OL,17,C[^[G<shift>6        )                   
-OL,18,C[`G[back tick                          
-OL,19,C[_G[underscore                         
-OL,20,C[[G[L sq bracket                       
+OL,17,C[^[G<shift>6       C[@G[@               
+OL,18,C[`G[back tick      C[[G[tilde          
+OL,19,C[_G[underscore     C[\G[backslash      
+OL,20,C[[G[L sq bracket   C[|G[pipe           
 OL,21,C[{G[L curly brace                      
-OL,22,C[ G[R                                  
-OL,23,                                        
+OL,22,C[}G[R sq bracket                       
+OL,23,C[}G[R curly brace                      
 OL,28,@@@TBCu_@|wKpZA`UB_wLs_w}ww]_}_wM@D
 FL,312,309,309,864,309,000
                                                                                 
