@@ -18,15 +18,15 @@ OL,9,
 OL,10,C[a b c d e f g h i j k l m n o p q r s 
 OL,11,  a b c d e f g h i j k l m n o p q r s 
 OL,12,                                         
-OL,13,C[t u v w x y z     `|\"B#$%^&&*()_-+=      
-OL,14,  t u v w x y z                         
+OL,13,C[t u v w x y z                             
+OL,14,  t u v w x y z                          
 OL,15,                                        
 OL,16,  Other characters                       
 OL,17,C[^[G<shift>6       C[@G[@               
-OL,18,C[`G[back tick      C[[G[tilde          
+OL,18,C[`G[back tick      C[~G[tilde          
 OL,19,C[_G[underscore     C[\G[backslash      
 OL,20,C[[G[L sq bracket   C[|G[pipe           
-OL,21,C[{G[L curly brace                      
+OL,21,C[{G[L curly brace  C[                  
 OL,22,C[}G[R sq bracket                       
 OL,23,C[}G[R curly brace                      
 OL,28,@@@TBCu_@|wKpZA`UB_wLs_w}ww]_}_wM@D
