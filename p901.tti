@@ -6,7 +6,7 @@ PN,90100
 SC,0000
 PS,8000
 OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
-OL,1,                                        
+OL,1,C]MD                                    
 OL,2,                                        
 OL,3,                                        
 OL,4,                                        
@@ -29,6 +29,6 @@ OL,20,
 OL,21,                                        
 OL,22,                                        
 OL,23,                                        
-OL,28,@@JA@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@D
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@D
 FL,908,905,905,360,905,000
                                                                                 
