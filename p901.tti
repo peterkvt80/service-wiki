@@ -9,19 +9,19 @@ OL,0,XXXXXXXXARTFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,C]MDUKRANIAN Cyrllic                    
 OL,2,                                        
 OL,3,                                        
-OL,4,[A B C D E F G H I J K L M N O P Q S T  
-OL,5,[U V W X Y Z                            
+OL,4,[A B C D E F G H I J K L M N O P Q R S T
+OL,5, A B C D E F G H I J K L M N O P Q R S T
 OL,6,                                        
-OL,7,    This line has[an ESC in it            
-OL,8,                                        
-OL,9,    But this line does not              
-OL,10,                                        
+OL,7,[U V W X Y Z                              
+OL,8, U V W X Y Z                            
+OL,9,                                        
+OL,10,[a b c d e f g h i j k l m n o p q r s t
 OL,11,                                        
-OL,12,    A27B                                 
-OL,13,                     27                  
+OL,12,    But this line does not               
+OL,13,                                         
 OL,14,                                        
-OL,15,                                        
-OL,16,                                        
+OL,15,    A27B                                
+OL,16,                     27                 
 OL,17,                                        
 OL,18,                                        
 OL,19,                                        
