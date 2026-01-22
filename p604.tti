@@ -1,0 +1,58 @@
+DE,Moscow weather - Open-Meteo.com
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\moscowweather.tti
+PN,60400
+SC,0000
+PS,8080
+CT,8,T
+OL,28,@@BA@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,XXXXXXXXPERW_j KANAL   dd.uu  C hh:nn.ss
+OL,1,]!MA      POGODA W MOSKWA               
+OL,3,Z]WZ                                    
+OL,4,Q|||^ P   \ G06 qnwarxG Q|||^|||^||||||^
+OL,6, Temperatura          min : -10         
+OL,7,                      makc:  -7         
+OL,9, Dawleniq:                 1007 mm      
+OL,11, Weter:                sewern_j  8 m/s  
+OL,12,WZ      pu0 G                  PRP>QAQBP>P:
+OL,13,WZ      &6$                             
+OL,14,WZ      hm                              
+OL,15,WZ     0j50       (=           `t      
+OL,16,WZ     78<25      `&#d          bw      
+OL,17,WZ     5eq%5   n$ eppp% n$      jj      
+OL,18,WZ    utp~u5 h#i (-8- h#i      555     
+OL,19,WZ    =m'"m-5 h#ih-8-8mh#i     lssy$    
+OL,20,WZ    5*pp: 5 7##>,-,-.6##5   (rsss8    
+OL,21,WZ }x5u,,,,d5}x5}x5}x5}x5}x5}x55   5}x5 
+OL,22,WZ k55 8,0 5k5k5k5k5k5k55`p 5k5 
+OL,28,@@BA@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@D
+FL,100,100,100,100,100,010
+DE,Moscow weather - Open-Meteo.com
+DS,inserter
+SP,I:\Peter\Xenoxxx\teletext\moscowweather.tti
+RM,1,INVALID PN. MARKED FOR DELETIONPN,60400
+SC,0000
+PS,8080
+CT,8,T
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,28,@@BA@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,0,XXXXXXXXPERW_j KANAL   dd.uu  C hh:nn.ss
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,1,]!MA      POGODA W MOSKWA               
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,3,Z]WZ                                    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,4,Q|||^ P   \ G06 qnwarxG Q|||^|||^||||||^
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,6, Temperatura          min : -10         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,7,                      makc:  -7         
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,9, Dawleniq:                 1007 mm      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,11, Weter:                sewern_j  8 m/s  
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,12,WZ      pu0 G                  PRP>QAQBP>P:
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,13,WZ      &6$                             
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,14,WZ      hm                              
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,15,WZ     0j50       (=           `t      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,16,WZ     78<25      `&#d          bw      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,17,WZ     5eq%5   n$ eppp% n$      jj      
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,18,WZ    utp~u5 h#i (-8- h#i      555     
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,19,WZ    =m'"m-5 h#ih-8-8mh#i     lssy$    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,20,WZ    5*pp: 5 7##>,-,-.6##5   (rsss8    
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,21,WZ }x5u,,,,d5}x5}x5}x5}x5}x5}x55   5}x5 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,22,WZ k55 8,0 5k5k5k5k5k5k55`p 5k5 
+RM,3,UNEXPECTED OL IN HEADER. MARKED FOR DELETIONOL,23,WZssssup5 upwssssssssssssssssssu5 uwssss
+FL,100,100,100,100,100,010                                        
